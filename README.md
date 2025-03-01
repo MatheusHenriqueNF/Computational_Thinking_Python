@@ -1,4 +1,4 @@
-# 🧠💻 Pensamento Computacional com Pyth
+# 🧠💻 Pensamento Computacional com Python
 Este repositório introduz os fundamentos do pensamento computacional, utilizando a linguagem Python para resolução de problema. São trabalhados conceitos como lógica de programação, estruturas de controle, manipulação de dados e algoritmos básicos, preparando os alunos para desafios em ciência de dados e desenvolvimento de softwar.
 
 ## 📂 Estrutura do Repositório
